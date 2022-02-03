@@ -1,0 +1,15 @@
+{
+  "name": "brute_force_js_2022",
+  "version": "1.0.0",
+  "description": "brute force javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.1.3"
+  }
+}
